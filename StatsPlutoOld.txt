@@ -1,0 +1,13 @@
+Score: 2076657
+Wins: 273
+Losses: 670
+Ties: 3
+Win Streak: 8
+Kills: 22340
+Deaths: 17310
+KD: 1.290
+Headshots: 1745
+Accuracy: 15.33%
+Assists: 4364
+Kill Streak: 130
+Time Played: 3D 15H 7M
